@@ -1,0 +1,2057 @@
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="format-detection" content="telephone=no, address=no, email=no"/>
+<link rel="apple-touch-icon-precomposed" href="http://www.traveli.co.kr/image/common/traveli_shortcut_96x96.png">
+<link href="/js/jquery/select2/select2.css" rel="stylesheet" />
+<link href="/css/jquery-ui-1.9.2.custom.min.css" type="text/css" rel="stylesheet" />
+<link href="/css/jquery.mCustomScrollbar.css" type="text/css" rel="stylesheet" />
+<link href="/css/mobile/load_cover.css" type="text/css" rel="stylesheet" />
+<link rel="icon" href="/image/favicon/favicon.ico" type="image/x-icon" />
+
+<script type="text/javascript" src="/js/jquery/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/js/jquery/jquery-ui-1.10.4.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/jquery/select2/select2.min.js"></script>
+<script type="text/javascript" src="/js/jquery.als-1.7.js"></script>
+<script type="text/javascript" src="/js/jquery.mCustomScrollbar.js"></script>
+<script type="text/javascript" src="/js/com/tooltip.js"></script>
+
+<script type="text/javascript">
+var basePath = "http://www.traveli.co.kr";
+scriptPath = "http://www.traveli.co.kr/js";
+imagePath = "http://www.traveli.co.kr/image";
+cssPath = "http://www.traveli.co.kr/css";
+savePath = "http://www.traveli.co.kr/repository";
+musicPath = "http://www.traveli.co.kr/music";
+</script>
+
+<meta property="og:type" content="website" />
+
+
+<meta name="google-site-verification" content="j-QbyMIZPXw7C_rg41gGTO92uKAXaGb_NPDqbaXFEmk" />
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-61199439-1', 'auto');
+	ga('send', 'pageview');
+</script>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>
+	안양역을 중심으로 '먹방' 찍어볼까? 안양의 소문난 맛,,별미,여행기사,트래블아이
+</title>
+<meta name='keyword' content='안양역을 중심으로 '먹방' 찍어볼까? 안양의 소문난 맛,,별미,,여행기사,트래블아이'>
+<meta name='description' content='경기도 내에 위치한 역들 중에서도 사람이 가장 많이 오가는 역들 중 하나인 안양역. 주변에 안양중앙시장과 안양 1번가, 비산동 종합운동장 등이 위치해 있으니 주변 볼거리와 먹거리도 넘쳐난다. 특히, 안양역  근처의 명소들을 중심으로 해서는 이름난 '맛'들이 트래블피플을 기다리고 있으니, 안양역을 경유해 간다면 지금 소개해 드리는 맛들 중 한 가지는 꼭 맛보기를 권한다.'>
+
+<meta property="og:title" content="안양역을 중심으로 '먹방' 찍어볼까? 안양의 소문난 맛,,별미,여행기사,트래블아이" />
+<meta property="og:image" content="http://www.traveli.co.kr/repository/read/contents/read_1050.jpg"/>
+<meta property="og:description" content="경기도 내에 위치한 역들 중에서도 사람이 가장 많이 오가는 역들 중 하나인 안양역. 주변에 안양중앙시장과 안양 1번가, 비산동 종합운동장 등이 위치해 있으니 주변 볼거리와 먹거리도 넘쳐난다. 특히, 안양역  근처의 명소들을 중심으로 해서는 이름난 '맛'들이 트래블피플을 기다리고 있으니, 안양역을 경유해 간다면 지금 소개해 드리는 맛들 중 한 가지는 꼭 맛보기를 권한다.">
+
+<link rel="canonical" href="http://www.traveli.co.kr/read/contentsView/1050/0">
+
+<link href="http://www.traveli.co.kr/css/template/template2.css" type="text/css" rel="stylesheet"/>
+<link href="/css/template/read_newTemplate.css" type="text/css" rel="stylesheet"/>
+<link href="http://www.traveli.co.kr/css/style.css" type="text/css" rel="stylesheet"/>
+<link href="http://www.traveli.co.kr/css/read.css" type="text/css" rel="stylesheet"/>
+<link href="/css/guideMask.css" type="text/css" rel="stylesheet"/>
+<script src="/js/com/guideMask.js"></script>
+<script src="http://www.traveli.co.kr/js/jquery/jquery.bxslider.min.js"></script>
+<script src="http://www.traveli.co.kr/js/jquery/jquery.bpopup.min.js"></script>
+<script src="http://www.traveli.co.kr/js/txt_marquee.js"></script>
+<script type="text/javascript" src="/js/com/checkIP.js"></script>
+<style type="text/css">
+.txt{ word-wrap: break-word}  
+/*파이어폭스 제외한 줄바꿈 소스 */
+</style>
+<script>
+	$(document).ready(function(){
+		$(".txt > .read_header").children("pre").remove();
+		/*
+		if(false){
+			$(".view_read .story_title").css({"border-bottom":0,"padding-bottom":0});
+		}
+		*/
+
+		$(".eleInfo").insertAfter("#container1");
+		$(".eleInfo").html("<a href='#'><img src='/image/guide/btn_eleInfo.png' alt='info'/></a>");
+
+
+/*******************읽어보기 사이드 영역 텍스트 노출방식 추가 2016-11-11**********************/
+		function textAddClass(){
+			$(".similar_lst ul li").each(function(){
+					$(this).addClass("text-crop");
+			});
+		}
+		function TextCrop(obj){
+			obj.removeClass("text-crop");
+		}
+
+$(".similar_lst ul li").each(function(i){
+		console.log($(this).height())
+});
+
+		$(".similar_lst ul li").bind({
+			mouseenter : function(){
+			/*	if($(this).height() == 117){
+				TextCrop($(this))
+				}*/
+				
+			},
+			mouseleave : function(){
+				//textAddClass()
+			}
+
+		});
+	});
+</script>
+<style>
+	#sidebar,
+	.eleInfo {margin-left:955px;}
+
+	.gCont .distInfo {right:-30px;}
+</style>
+<!--[if lt IE 9]>
+	<style>
+		.rel-outlet li .go-goods {background: url('/image/rel-outlet/sub-link.png') 0 0 no-repeat;}
+	</style>
+<![endif]-->
+</head>
+<body id="readCont">
+	<div id="wrap"> 
+    <!-- 헤더 -->
+	
+
+
+
+
+
+<!--<script type="text/javascript" src="/js/stickyMojo.js"></script>-->
+
+
+<!-- 음악플레이어 쿠키설정  -->
+<script type="text/javascript" src="/js/com/header.js"></script>
+
+
+
+<div class="utilMenu">
+
+	<!--<div class="player" style="display:none;"><span>배경음악 : </span><span id="play">&#9654;Play</span><span id="stop">&#9632;Stop</span></div>-->
+
+	<div class="inner_wrap">
+		<h1 class="innerSlogan">
+			
+				
+				
+				
+				
+				
+				
+				
+				안양역을 중심으로 '먹방' 찍어볼까? 안양의 소문난 맛, 국내여행, 여행정보
+				
+			
+		</h1>
+		
+		<div id="areaList" class="main_category">
+			<button type="button"><span class="red">대한민국</span> <span class="blue">들썩들썩</span></button>
+		</div>
+		
+		<input type="hidden" value=""/>
+		<input type="hidden" class="wingCategory" value="read"/>
+        <ul>
+            
+				
+					<li class="linenull" id="login"><a href="/member/login">로그인</a></li>
+				
+				
+            
+            <li><a href="/member/joinMember">회원가입</a></li>
+            <li><a href="/member/mypage">마이페이지</a></li>
+			<li class="mobileMenu"><a href="#" class="btnToggle" id="trigerToggle">전체메뉴</a></li>
+            <li><a href="javascript:;" style="color:#fff;cursor:default;padding-left:0;">.</a></li>
+            <li>
+            	<select id="select_theme">
+		    		<option value="">테마선택</option>
+		    		<option value="theme_purple">PURPLE</option>
+		    		<option value="theme_darksky">DARKSKY</option>
+		    		<option value="theme_mint">MINT</option>
+		    		<option value="theme_green">GREEN</option>
+		    		<option value="theme_blueberry">BLUEBERRY</option>
+		    		<option value="theme_halloween">HALLOWEEN</option>
+		    	</select>
+		    	
+	    	</li>
+
+        </ul>
+    </div>
+
+	<div class="entireMenuM" >
+			<div class="menuArea">
+				<ul>
+					<!-- menu line 1 -->
+					<li class="blockLi">
+						<ul class="floatUl">
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/know/index/0/0">알아보기</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/126">서울</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/156">인천</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/92">광주</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/105">대전</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/97">대구</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/110">부산</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/151">울산</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/202">제주</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/19">경기도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/1">강원도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/166">전라남도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/188">전라북도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/51">경상남도</a></li> 
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/69">경상북도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/204">충청남도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/219">충청북도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/21">특별자치시</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/eat/index/0/0">먹어보기</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/0/random">전체</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/2/random">국물요리</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/3/random">밥,죽</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/21/random">볶음,조림</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/22/random">찜,구이</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/24/random">절임,무침,샐러드</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/25/random">면,만두</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/26/random">전,부침,튀김</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/27/random">빵,과자,떡</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/41/random">김치,젓갈류</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/42/random">생선회,육회</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/43/random">양념,기타</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/look/index/0/0">둘러보기</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/0/random">전체</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/3/random">상설시장</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/4/random">1일,6일</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/5/random">2일,7일</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/6/random">3일,8일</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/7/random">4일,9일</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/8/random">5일,0일</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/21/random">기타</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/festival/index/0/0">즐겨보기</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/0?area=all">전체</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/2?area=all">생태자연축제</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/3?area=all">문화예술축제</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/4?area=all">전통역사민속축제</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/5?area=all">지역특산물축제</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/6?area=all">레저스포츠축제</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/7?area=all">기타</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul class="innerfirstRow">
+									<li class="headTitle"><a href="http://www.traveli.co.kr/go/index/0/0">다녀보기</a></li>
+									<li><a href="http://www.traveli.co.kr/go/contentsList/0/random">전체</a></li>
+									<li><a href="http://www.traveli.co.kr/go/contentsList/2/random">문화</a></li>
+									<li><a href="http://www.traveli.co.kr/go/contentsList/3/random">탐사</a></li>
+									<li><a href="http://www.traveli.co.kr/go/contentsList/4/random">명물</a></li>
+									<li><a href="http://www.traveli.co.kr/go/contentsList/25/random">씨티투어</a></li>
+								</ul>
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/show/index/0/0">뽐내보기</a></li>
+									<li><a href="http://www.traveli.co.kr/show/contentsList/0/random">전체</a></li>
+									<li><a href="http://www.traveli.co.kr/show/contentsList/2/random">봄</a></li>
+									<li><a href="http://www.traveli.co.kr/show/contentsList/3/random">여름</a></li>
+									<li><a href="http://www.traveli.co.kr/show/contentsList/4/random">가을</a></li>
+									<li><a href="http://www.traveli.co.kr/show/contentsList/5/random">겨울</a></li>
+									<li><a href="http://www.traveli.co.kr/show/contentsList/6/random">제철없음</a></li>
+								</ul>
+
+
+							</li>
+
+							<li class="floatLi">
+								<ul class="innerfirstRow">
+									<li class="headTitle"><a href="http://www.traveli.co.kr/read/index">읽어보기</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/0/0">전체</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/22/0">탐사</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/23/0">문화</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/24/0">체험</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/25/0">별미</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/26/0">명물</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/41/0">트래블투데이</a></li>
+								</ul>
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/feel/index" >느껴보기</a></li>
+									<li><a href="http://www.traveli.co.kr/feel/cartoon">동화</a></li>
+									<li><a href="http://www.traveli.co.kr/feel/mission">미션패밀리</a></li>
+									<li><a href="http://www.traveli.co.kr/feel/essay">포토에세이</a></li>
+									<li><a href="http://www.traveli.co.kr/feel/drama">포토드라마</a></li>
+								</ul>	
+							</li>
+							<li class="floatLi">
+								<ul class="innerfirstRow">
+									<li class="headTitle"><a href="http://www.traveli.co.kr/examine/day">살펴보기</a></li>
+									<li><a href="http://www.traveli.co.kr/examine/day">일간</a></li>
+									<li><a href="http://www.traveli.co.kr/examine/week">주간</a></li>
+									<li><a href="http://www.traveli.co.kr/examine/month">월간</a></li>
+									<li><a href="http://www.traveli.co.kr/examine/total">누적</a></li>
+
+								</ul>	
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/together/index">함께보기</a></li>
+									<!--<li><a href="http://www.traveli.co.kr/OneHMEvent">1억원을쏩니다!</a></li>
+									<li><a href="http://traveli.co.kr/together/analReport">애널리포트</a></li>
+									<li><a href="http://traveli.co.kr/together/travelFortune">여.행.운</a></li>
+									<li><a href="http://www.traveli.co.kr/together/experience">체험학습</a></li>
+									<li><a href="http://www.traveli.co.kr/together/flower">봄꽃로맨스</a></li>
+									<li><a href="http://www.traveli.co.kr/together/advertise">당신에게띄우는..</a></li>
+									<li><a href="http://www.traveli.co.kr/dna">너도나도 콕!</a></li>
+									<li><a href="http://www.traveli.co.kr/together/calendar">일상의 쉼표</a></li>
+									<li><a href="http://www.traveli.co.kr/together/mapView/history">테마지도</a></li>-->
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<!-- //menu line 1 -->
+					<!-- menu line 2 -->
+					<li class="blockLi">
+						<ul class="floatUl">
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/introduce/0">트래블아이 소개</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/0">트래블아이란?</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/1">브랜드스토리</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/2">지역 및 콘텐츠호감도</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/3">트래블피플 소개</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/4">트래블피플 활동참여</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/5">트래블피플 혜택</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/6">깨알검색</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.culturemkt.com/" target="_blank">회사 소개</a></li>
+									<li><a href="http://www.culturemkt.com/" target="_blank">회사소개</a></li>
+									<li><a href="http://www.traveli.co.kr/customer/use/use">이용안내</a></li>
+									<li><a href="http://www.traveli.co.kr/customer/use/partner">제휴사 가입안내</a></li>
+									<li><a href="http://www.traveli.co.kr:80/fileDown/intro_pf">플랫폼 소개서</a></li>
+									<li><a href="http://www.traveli.co.kr/customer/call/ask">문의요청</a></li>
+									<li><a href="http://www.traveli.co.kr/customer/list/notice">공지사항</a></li>
+									<li><a href="http://www.traveli.co.kr/customer/use/terms">이용약관</a></li>
+									<li><a href="http://www.traveli.co.kr/customer/use/policy">개인정보취급방침</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.travelitoday.com/" target="_blank">트래블투데이</a></li>
+									<li><a href="http://www.travelitoday.com/" target="_blank">트래블투데이</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://traveloutlet.co.kr/" target="_blank">트래블아울렛</a></li>
+									<li><a href="http://www.traveloutlet.co.kr/" target="_blank">트래블아울렛</a></li>
+								</ul>
+							</li>
+
+							<li class="floatLi ">
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/member/login">회원 메뉴</a></li>
+									<li><a href="http://www.traveli.co.kr/member/login">로그인</a></li>
+									<li><a href="http://www.traveli.co.kr/member/joinMember">회원가입</a></li>
+									<li><a href="http://www.traveli.co.kr/member/searchPass">이메일/비밀번호 찾기</a></li>
+									<li><a href="http://www.traveli.co.kr/dna">트래블 DNA 체크업</a></li>
+									<li><a href="http://www.traveli.co.kr/member/mypage">마이페이지</a></li>
+									<!--<li><a href="http://www.traveli.co.kr/member/newsletter">뉴스레터 가입</a></li>-->
+									<li><a href="/together/recruitMain">지역주재기자</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<div class="btnClose">닫기</div>
+			</div>
+		</div>
+
+
+</div>
+
+
+<!-- 광고배너 -->
+
+	<div class="top-banner">
+		<ul>
+			
+		</ul>
+	</div>
+
+<!-- //광고 배너 -->
+
+<div class="header">
+    <div class="inner_wrap inner">
+        <!--
+		<h1><a href="/"><img src="/image/h1_logo_2015_ver.2.png" id="top_logo" alt="트래블아이" /></a></h1>
+		-->
+		
+		<h1>
+        	<a href="/"><img src="/image/theme/theme_default/h1_logo.gif" id="top_logo" alt="트래블아이" /></a>
+        </h1>
+		<input type="hidden" id="myToday" value="0628"/>
+		<input type="hidden" id="myLunar" value="05-23"/>
+        <div class="search_area">
+            <div class="search">
+            	<input type="hidden" name="regionSEQ"/>
+                <input type="text" id="userId" style="ime-mode:inactive" onfocus="this.className='input_focus'" onblur="if(this.value=='') {this.className='input_id'};" class="input_id" /><label for="userId"></label>
+                <span><a href="javascript:;"><img src="/image/btn_search.gif" alt="검색" id="search_img"/></a></span>
+            </div>
+            <div class="search_keyword als-container">				
+				<div class="als-viewport">
+					<ul class="als-wrapper">                    
+						<!-- 추천키워드 -->
+					</ul>
+				</div>
+				<p>
+                <span class="als-prev"><img src="/image/tag_right.jpg" alt="오른쪽으로 이동" /></span><span class="als-next"><img src="/image/tag_left.jpg" alt="왼쪽으로 이동" /></span></p>
+                
+            </div>
+        </div>
+        <div class="travel_side">
+            <ul class="travel_side_ul">
+                <li class="favorites re_plus">
+                    <!--a href="#" class="icon"><span>Traveli<br>Introduction</span></a-->
+                    <a href="/introduce/0" class="icon"><span class="height">트래블아이</span></a>
+                </li>
+                <li class="newsletter">
+                    <a href="http://www.travelitoday.com" class="icon" target="_blank"><span>트래블투데이</span></a>
+                </li>
+                <li class="traveloutlet">
+                    <a href="http://www.traveloutlet.co.kr" class="icon" target="_blank" target="_blank"><span>트래블아울렛</span></a>
+                </li>
+                <li class="checkup re_plus" >
+                    <a href="/dna" class="icon"><span>트래블DNA체크업</span></a>
+                </li>
+                <li class="top100">
+                
+                	
+	                	
+	                    
+	                    	<a href="/together/recruitMain" target="_blank" class="icon"><span>지역주재기자</span></a>
+	                    
+                    
+                </li>
+            </ul>
+        </div>
+
+		<div class="entireMenuW">
+			<a href="#" class="btnToggle" id="trigerToggle"><img alt="전체메뉴" src="/image/txt_menu.png" /></a>
+
+			<div class="menuArea">
+				<ul>
+					<!-- menu line 1 -->
+					<li class="blockLi">
+						<ul class="floatUl">
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/know/index/0/0">알아보기</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/126">서울</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/156">인천</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/92">광주</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/105">대전</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/97">대구</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/110">부산</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/151">울산</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/202">제주</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/19">경기도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/1">강원도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/166">전라남도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/188">전라북도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/51">경상남도</a></li> 
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/69">경상북도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/204">충청남도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/219">충청북도</a></li>
+									<li><a href="http://www.traveli.co.kr/know/contentsView/0/21">특별자치시</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/eat/index/0/0">먹어보기</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/0/random">전체</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/2/random">국물요리</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/3/random">밥,죽</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/21/random">볶음,조림</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/22/random">찜,구이</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/24/random">절임,무침,샐러드</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/25/random">면,만두</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/26/random">전,부침,튀김</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/27/random">빵,과자,떡</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/41/random">김치,젓갈류</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/42/random">생선회,육회</a></li>
+									<li><a href="http://www.traveli.co.kr/eat/contentsList/43/random">양념,기타</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/look/index/0/0">둘러보기</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/0/random">전체</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/3/random">상설시장</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/4/random">1일,6일</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/5/random">2일,7일</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/6/random">3일,8일</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/7/random">4일,9일</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/8/random">5일,0일</a></li>
+									<li><a href="http://www.traveli.co.kr/look/contentsList/21/random">기타</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/festival/index/0/0">즐겨보기</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/0?area=all">전체</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/2?area=all">생태자연축제</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/3?area=all">문화예술축제</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/4?area=all">전통역사민속축제</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/5?area=all">지역특산물축제</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/6?area=all">레저스포츠축제</a></li>
+									<li><a href="http://www.traveli.co.kr/festival/contentsList/7?area=all">기타</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul class="innerfirstRow">
+									<li class="headTitle"><a href="http://www.traveli.co.kr/go/index/0/0">다녀보기</a></li>
+									<li><a href="http://www.traveli.co.kr/go/contentsList/0/random">전체</a></li>
+									<li><a href="http://www.traveli.co.kr/go/contentsList/2/random">문화</a></li>
+									<li><a href="http://www.traveli.co.kr/go/contentsList/3/random">탐사</a></li>
+									<li><a href="http://www.traveli.co.kr/go/contentsList/4/random">명물</a></li>
+									<li><a href="http://www.traveli.co.kr/go/contentsList/25/random">씨티투어</a></li>
+								</ul>
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/show/index/0/0">뽐내보기</a></li>
+									<li><a href="http://www.traveli.co.kr/show/contentsList/0/random">전체</a></li>
+									<li><a href="http://www.traveli.co.kr/show/contentsList/2/random">봄</a></li>
+									<li><a href="http://www.traveli.co.kr/show/contentsList/3/random">여름</a></li>
+									<li><a href="http://www.traveli.co.kr/show/contentsList/4/random">가을</a></li>
+									<li><a href="http://www.traveli.co.kr/show/contentsList/5/random">겨울</a></li>
+									<li><a href="http://www.traveli.co.kr/show/contentsList/6/random">제철없음</a></li>
+								</ul>
+
+
+							</li>
+
+							<li class="floatLi">
+								<ul class="innerfirstRow">
+									<li class="headTitle"><a href="http://www.traveli.co.kr/read/index">읽어보기</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/0/0">전체</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/22/0">탐사</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/23/0">문화</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/24/0">체험</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/25/0">별미</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/26/0">명물</a></li>
+									<li><a href="http://www.traveli.co.kr/read/contentsList/41/0">트래블투데이</a></li>
+								</ul>
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/feel/index">느껴보기</a></li>
+									<li><a href="http://www.traveli.co.kr/feel/cartoon">동화</a></li>
+									<li><a href="http://www.traveli.co.kr/feel/mission">미션패밀리</a></li>
+									<li><a href="http://www.traveli.co.kr/feel/essay">포토에세이</a></li>
+									<li><a href="http://www.traveli.co.kr/feel/drama">포토드라마</a></li>
+								</ul>	
+							</li>
+							<li class="floatLi">
+								<ul class="innerfirstRow">
+									<li class="headTitle"><a href="http://www.traveli.co.kr/examine/day">살펴보기</a></li>
+									<li><a href="http://www.traveli.co.kr/examine/day">일간</a></li>
+									<li><a href="http://www.traveli.co.kr/examine/week">주간</a></li>
+									<li><a href="http://www.traveli.co.kr/examine/month">월간</a></li>
+									<li><a href="http://www.traveli.co.kr/examine/total">누적</a></li>
+								</ul>	
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/together/index">함께보기</a></li>
+									<!--<li><a href="http://www.traveli.co.kr/OneHMEvent">1억원을쏩니다!</a></li>
+									<li><a href="http://traveli.co.kr/together/analReport">애널리포트</a></li>
+									<li><a href="http://traveli.co.kr/together/travelFortune">여.행.운</a></li>
+									<li><a href="http://www.traveli.co.kr/together/experience">체험학습</a></li>
+									
+									<li><a href="http://www.traveli.co.kr/together/advertise">당신에게띄우는..</a></li>
+									<li><a href="http://www.traveli.co.kr/dna">너도나도 콕!</a></li>
+									<li><a href="http://www.traveli.co.kr/together/calendar">일상의 쉼표</a></li>
+									<li><a href="http://www.traveli.co.kr/together/mapView/history">테마지도</a></li>-->
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<!-- //menu line 1 -->
+					<!-- menu line 2 -->
+					<li class="blockLi fixHeight">
+						<ul class="floatUl">
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/introduce/0">트래블아이 소개</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/0">트래블아이란?</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/1">브랜드스토리</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/2">지역 및 콘텐츠호감도</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/3">트래블피플 소개</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/4">트래블피플 활동참여</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/5">트래블피플 혜택</a></li>
+									<li><a href="http://www.traveli.co.kr/introduce/6">깨알검색</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.culturemkt.com/" target="_blank">회사 소개</a></li>
+									<li><a href="http://www.culturemkt.com/" target="_blank">회사소개</a></li>
+									<li><a href="http://www.traveli.co.kr/customer/use/use">이용안내</a></li>
+									<li><a href="http://www.traveli.co.kr/customer/use/partner">제휴사 가입안내</a></li>
+									<li><a href="http://www.traveli.co.kr:80/fileDown/intro_pf">플랫폼 소개서</a></li>
+									<li><a href="http://www.traveli.co.kr/customer/call/ask">문의요청</a></li>
+									<li><a href="http://www.traveli.co.kr/customer/list/notice">공지사항</a></li>
+									<li><a href="http://www.traveli.co.kr/customer/use/terms">이용약관</a></li>
+									<li><a href="http://www.traveli.co.kr/customer/use/policy">개인정보취급방침</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.travelitoday.com/" target="_blank">트래블투데이</a></li>
+									<li><a href="http://www.travelitoday.com/" target="_blank">트래블투데이</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://traveloutlet.co.kr/" target="_blank">트래블아울렛</a></li>
+									<li><a href="http://www.traveloutlet.co.kr/" target="_blank">트래블아울렛</a></li>
+								</ul>
+							</li>
+							<li class="floatLi">
+								<ul>
+									<li class="headTitle"><a href="http://www.traveli.co.kr/member/login">회원 메뉴</a></li>
+									<li><a href="http://www.traveli.co.kr/member/login">로그인</a></li>
+									<li><a href="http://www.traveli.co.kr/member/joinMember">회원가입</a></li>
+									<li><a href="http://www.traveli.co.kr/member/searchPass">이메일/비밀번호 찾기</a></li>
+									<li><a href="http://www.traveli.co.kr/dna">트래블 DNA 체크업</a></li>
+									<li><a href="http://www.traveli.co.kr/member/mypage">마이페이지</a></li>
+									<!--<li><a href="http://www.traveli.co.kr/member/newsletter">뉴스레터 가입</a></li>-->
+				                	
+					                	
+					                    
+					                    	<a href="/together/recruitMain" target="_blank" class="icon"><span>지역주재기자</span></a>
+					                    
+				                    
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<div class="btnClose">닫기</div>
+			</div>
+		</div>
+
+
+ 
+		<div class="gnb">
+            <ul>
+                <li class="m1"><a href="/know/index/0/0" ><p>알아보기</p></a></li>
+                <li class="m2"><a href="/eat/index/0/0" ><p>먹어보기</p></a></li>
+                <li class="m3"><a href="/look/index/0/0" ><p>둘러보기</p></a></li>
+                <li class="m4"><a href="/festival/index/0/0" ><p>즐겨보기</p></a></li>
+                <li class="m5"><a href="/go/index/0/0" ><p>다녀보기</p></a></li>
+                <li class="m6"><a href="/show/index/0/0" ><p>뽐내보기</p></a></li>
+                <li class="m7"><a href="/read/index" class="on"><p>읽어보기</p></a></li>
+                <li class="m8"><a href="/feel/index" ><p>느껴보기</p></a></li>
+                <li class="m9"><a href="/examine/day" ><p>살펴보기</p></a></li>
+                <li class="m10"><a href="/together/index" ><p>함께보기</p></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class='eleInfo'></div>
+<div class='scrollTop' id='sidebar'></div>
+
+
+
+<script type="text/javascript">
+
+
+$(document).ready(function(){	
+	// ie7 z-index 버그 관련 selector
+	var zIndexElement_ie7 = "#slider_special, .special_view .sp_thmb2, .know .story_title, .sumup .top_class li, .sumup .tab, #story1 dl, .type2_left	.theme_list .thumb , .info_section, .sumup .top_class .scale P, .type2_contents .view .info, .net_list .article UL LI, .net_list .data .w207 > DIV,	.diary .area_month, .sumup .top_class .w90, #slider_festival2, .bx-wrapper, .net_section UL LI, .reading_all UL li, .today, .placing, .dSelect01, .gridster";
+	chgColor();
+
+	//$('#sidebar').stickyMojo({footerID: '.footer', contentID: '#container1'});
+
+	$(".btnToggle").click(function(){
+		$(this).toggleClass("menuOn");
+
+		/* ie7 전체메뉴 버그 해결 */
+		if((navigator.userAgent.indexOf( "MSIE 7" ) > 0)&& navigator.userAgent.indexOf( "Trident" )){
+			$(".entireMenuW .menuArea LI.blockLi").css("height","410px");
+			$(".entireMenuW .menuArea LI.fixHeight").css("height","220px");
+			if($(".entireMenuW .btnToggle").hasClass("menuOn")==true){	
+				$(zIndexElement_ie7).css("z-index","-1");
+				$("#slider_picture, #bx-pager").css("z-index","-1");
+				$(".sumup .top_class .keyword").css("display","none");
+			}else{		
+				$(zIndexElement_ie7).css("z-index","");
+				$("#slider_picture, #bx-pager").css("z-index","999");
+				$(".sumup .top_class .keyword").css("display","");
+			}
+		}
+		/* //ie7 전체메뉴 버그 해결 */
+
+
+		$(".menuArea").slideToggle("slow", function() {
+		 	$(".btnClose").click(function(){
+				$(".btnToggle").removeClass("menuOn");
+
+				/* ie7 전체메뉴 버그 해결 */
+				if((navigator.userAgent.indexOf( "MSIE 7" ) > 0)&& navigator.userAgent.indexOf( "Trident" )  ){
+						$("body").addClass("lt-ie9");
+						$(zIndexElement_ie7).css("z-index","");
+						$("#slider_picture").css("z-index","999");
+						$(".sumup .top_class .keyword").css("display","");					
+				}
+				/* //ie7 전체메뉴 버그 해결 */
+
+				$(".menuArea").slideUp("slow");
+				
+				$(".entireMenuW .btnToggle").css("background-color","");
+				if($("body").attr("class")=="" || !$("body").attr("class")){
+					$(".entireMenuW .btnToggle").find("img").attr("src","/image/txt_menu.png");
+					$(".entireMenuW .btnToggle").css({"background":"url('/image/icon_menu.png') no-repeat 48% 31%"});
+				}
+
+			});
+		});
+	});
+
+	
+});
+//@ sourceURL=pen.js
+
+</script>
+
+
+
+<script type="text/javascript">
+	$(function(){
+		var $url = "/intro/wingBanner";
+		var $category = $(".wingCategory").val();
+		$.ajax({
+			type:"POST",
+			data:"category=" + $category,
+			url:$url,
+			success:function(data){
+				var htm = "";
+				var wingList = data.list;
+				$.each(wingList, function(i){
+					htm += '<a href="#" url="'+wingList[i].url+'" seq="'+wingList[i].seq+'" class="wing_click banner-wing'+ wingList[i].seq +'"><img src="/repository/com/wingbanner/'+wingList[i].newFileName+'" alt="'+wingList[i].commented+'" seq="'+wingList[i].seq+'"/></a>';
+				});
+				
+				$("#wingBanner").html(htm);
+			}
+		});
+		
+		//광고 클릭시
+		$(document).on("click",".wing_click",function(e){
+			e.preventDefault();
+			var tg = $(this);
+			var $seq = $(this).attr("seq");
+			var $url = $(this).attr("url");
+			
+			$.ajax({
+				type:"POST",
+				url:"/intro/wingCheck",
+				data:{seq:$seq,category:$category},
+				success:function(date){
+					
+				},
+				complete:function(){
+					var $target = $url.indexOf("traveli") > 0 ? "_self" : "_blank";
+					tg.attr("href", $url).attr("target", $target);
+					tg.removeClass("wing_click");
+	
+					$(".banner-wing"+ $seq )[0].click();
+				}
+			});
+			
+		});
+		
+	/*
+		var docuHeight = $(document).height();
+		var winHeight = $(window).height();
+		
+		var asideHeight = $(".asideBanner > div").height();
+		var footHeight = $(".footer").height();
+		var stopPos = winHeight - (asideHeight - footHeight);
+	*/	
+		
+		var asidePos = $(".asideBanner > div").offset().top;
+		
+		jQuery(window).scroll(function(){
+			var scrollTop = jQuery(document).scrollTop();
+
+			
+			if (scrollTop >= asidePos) {
+				$(".asideBanner").addClass("on");
+				
+			} else {
+				$(".asideBanner").removeClass("on");
+			}
+		});
+	});
+</script>
+<div class="asideBanner">
+    <!--<p><img src="/image/common/aside/tit_aside_banner01.jpg" alt="여기를 클릭하세요." /></p>-->
+    <div id="wingBanner">
+		
+	</div>
+</div>
+
+
+
+    <!-- //헤더 -->
+
+	<input type="hidden" id="categoryid" value="읽어보기"/>
+	<input type="hidden" id="email" value=""/>
+	<input type="hidden" id="themeSEQ" value="25"/>
+	<input type="hidden" id="themeName" value="별미"/>
+	<input type="hidden" id="contentsSEQ" value="1050"/>
+	<input type="hidden" id="title" value="안양역을 중심으로 '먹방' 찍어볼까? 안양의 소문난 맛"/>
+	<input type="hidden" id="regionSEQ" class="regionSEQ" value="36"/>
+
+    <!-- 컨텐츠 -->
+    <div class="sv_m7">
+        <div class="navi noline">
+            <span><a href="/">홈</a></span>><span><a href="/read/index">읽어보기(여행기사)</a></span>><span><a href="/read/contentsList/25/0">별미</a></span>><span class="accent"> 안양역을 중심으로 '먹방' 찍어볼까? 안양의 소문난 맛</span>
+        </div>
+        <div class="cont_reading">
+            <!-- 배너 -->
+            
+
+
+
+<h3>
+	<span class="default">
+		<img src="/image/read/
+		
+		
+		ribbon_taste.jpg
+		
+		" class="theme_img"/>
+		
+		<img src="/image/feeling/cv2.png" class="feeling" alt="" />
+		
+	</span>
+	
+</h3>
+<div class="similar_lst">
+	<p><a href="/read/contentsList/0/1"><img src="/image/read/icon_list_click2.gif" alt="같은테마 리스트보기" /></a></p>
+    <p><img src="/image/read/readlist_title.jpg" alt="같은테마" /></p>
+    <ul>
+    
+    	<li>
+            <a href="/read/contentsView/18944/0">
+                <img src="/repository/read/contents/READ20240628134356971053.jpg" alt="군산시, 신선이 놀다간 선유도해수욕장,  7월 10일부터 개장, 국내여행, 여행정보"/>
+				<span class="local-name"></span>
+                <span title="군산시, 신선이 놀다간 선유도해수욕장,  7월 10일부터 개장">군산시, 신선이 놀다간 선유도해수욕장,  7월 10일부터 개장</span>
+                <span class="feel-ctn"><a href="#"><img src="/image/feeling/left_cv7.png" id="left_feel" alt="컨텐츠호감도"/></a></span>
+            </a>
+        </li>
+    
+    	<li>
+            <a href="/read/contentsView/18943/0">
+                <img src="/repository/read/contents/READ202406281228516123889.jpg" alt="전남도, 목포·해남 동화 속 코스 등 남도한바퀴 여름 코스 본격 운행, 국내여행, 여행정보"/>
+				<span class="local-name"></span>
+                <span title="전남도, 목포·해남 동화 속 코스 등 남도한바퀴 여름 코스 본격 운행">전남도, 목포·해남 동화 속 코스 등 남도한바퀴 여름 코스 본</span>
+                <span class="feel-ctn"><a href="#"><img src="/image/feeling/left_cv7.png" id="left_feel" alt="컨텐츠호감도"/></a></span>
+            </a>
+        </li>
+    
+    	<li>
+            <a href="/read/contentsView/18941/0">
+                <img src="/repository/read/contents/READ2024062811461186274643.JPG" alt="보령시, 한여름 무더위에도 시원한 냉풍욕장 본격 개장, 국내여행, 여행정보"/>
+				<span class="local-name"></span>
+                <span title="보령시, 한여름 무더위에도 시원한 냉풍욕장 본격 개장">보령시, 한여름 무더위에도 시원한 냉풍욕장 본격 개장</span>
+                <span class="feel-ctn"><a href="#"><img src="/image/feeling/left_cv7.png" id="left_feel" alt="컨텐츠호감도"/></a></span>
+            </a>
+        </li>
+    
+    	<li>
+            <a href="/read/contentsView/18940/0">
+                <img src="/repository/read/contents/READ202406281130492485578.jpg" alt="경남도, 뜨거운 여름, 경남에서 즐겁게, 시원하게~!, 국내여행, 여행정보"/>
+				<span class="local-name"></span>
+                <span title="경남도, 뜨거운 여름, 경남에서 즐겁게, 시원하게~!">경남도, 뜨거운 여름, 경남에서 즐겁게, 시원하게~!</span>
+                <span class="feel-ctn"><a href="#"><img src="/image/feeling/left_cv7.png" id="left_feel" alt="컨텐츠호감도"/></a></span>
+            </a>
+        </li>
+    
+    	<li>
+            <a href="/read/contentsView/18939/0">
+                <img src="/repository/read/contents/READ2024062811132953814873.jpg" alt="경남도, ‘2024년 찾아가고 싶은 섬’에 ‘경남도 17곳’ 선정, 국내여행, 여행정보"/>
+				<span class="local-name"></span>
+                <span title="경남도, ‘2024년 찾아가고 싶은 섬’에 ‘경남도 17곳’ 선정">경남도, ‘2024년 찾아가고 싶은 섬’에 ‘경남도 17곳’ </span>
+                <span class="feel-ctn"><a href="#"><img src="/image/feeling/left_cv7.png" id="left_feel" alt="컨텐츠호감도"/></a></span>
+            </a>
+        </li>
+    
+    	<li>
+            <a href="/read/contentsView/18937/0">
+                <img src="/repository/read/contents/READ202406271420262521545.jpg" alt="남이섬, 놀면서 배우자! 워터가든에서 즐기는 남이섬 찾아가는 해양안전체험, 국내여행, 여행정보"/>
+				<span class="local-name"></span>
+                <span title="남이섬, 놀면서 배우자! 워터가든에서 즐기는 남이섬 찾아가는 해양안전체험">남이섬, 놀면서 배우자! 워터가든에서 즐기는 남이섬 찾아가는 </span>
+                <span class="feel-ctn"><a href="#"><img src="/image/feeling/left_cv7.png" id="left_feel" alt="컨텐츠호감도"/></a></span>
+            </a>
+        </li>
+    
+    	<li>
+            <a href="/read/contentsView/18935/0">
+                <img src="/repository/read/contents/READ2024062713551080064536.jpg" alt="순창군, 용궐산 이제 남녀노소 찾는 명품 관광지로 조성 , 국내여행, 여행정보"/>
+				<span class="local-name"></span>
+                <span title="순창군, 용궐산 이제 남녀노소 찾는 명품 관광지로 조성 ">순창군, 용궐산 이제 남녀노소 찾는 명품 관광지로 조성 </span>
+                <span class="feel-ctn"><a href="#"><img src="/image/feeling/left_cv7.png" id="left_feel" alt="컨텐츠호감도"/></a></span>
+            </a>
+        </li>
+    
+    	<li>
+            <a href="/read/contentsView/18932/0">
+                <img src="/repository/read/contents/READ2024062713351310575374.jpg" alt="확 바뀐 반값 강진여행, 올 여름 축제 맘껏 즐기자, 국내여행, 여행정보"/>
+				<span class="local-name"></span>
+                <span title="확 바뀐 반값 강진여행, 올 여름 축제 맘껏 즐기자">확 바뀐 반값 강진여행, 올 여름 축제 맘껏 즐기자</span>
+                <span class="feel-ctn"><a href="#"><img src="/image/feeling/left_cv7.png" id="left_feel" alt="컨텐츠호감도"/></a></span>
+            </a>
+        </li>
+    
+    	<li>
+            <a href="/read/contentsView/18931/0">
+                <img src="/repository/read/contents/READ2024062712443677053885.jpg" alt="음성군, 충북혁신도시 물놀이장 오는 29일 개장, 국내여행, 여행정보"/>
+				<span class="local-name"></span>
+                <span title="음성군, 충북혁신도시 물놀이장 오는 29일 개장">음성군, 충북혁신도시 물놀이장 오는 29일 개장</span>
+                <span class="feel-ctn"><a href="#"><img src="/image/feeling/left_cv7.png" id="left_feel" alt="컨텐츠호감도"/></a></span>
+            </a>
+        </li>
+    
+    	<li>
+            <a href="/read/contentsView/18929/0">
+                <img src="/repository/read/contents/READ2024062712282497416215.jpg" alt="서산시 중리어촌체험마을, 충남 유일 ‘7월 가볼 만한 곳’ 선정, 국내여행, 여행정보"/>
+				<span class="local-name"></span>
+                <span title="서산시 중리어촌체험마을, 충남 유일 ‘7월 가볼 만한 곳’ 선정">서산시 중리어촌체험마을, 충남 유일 ‘7월 가볼 만한 곳’ 선</span>
+                <span class="feel-ctn"><a href="#"><img src="/image/feeling/left_cv7.png" id="left_feel" alt="컨텐츠호감도"/></a></span>
+            </a>
+        </li>
+    
+         
+    </ul>
+    <span class="btn"><a href="/read/contentsList/0/1"><img src="/image/read/btn_themeview.jpg" alt="같은테마리스트 더보기" /></a></span>
+</div>
+
+
+<script>
+	$(document).ready(function(){
+		if($("h3 span.outlet").length>0){
+			$(".sv_m7 .cont_reading h3 .theme_img").css({right:"100px"});
+			$(".sv_m7 .cont_reading h3 .feeling").css({right:"111px"});
+
+			$(".view_read .story_title h4").css({width:'540px'});
+
+		}
+	});
+</script>
+
+            <!-- //배너 -->
+
+            <!-- 기사내용 -->
+            <div class="view_read">
+	            
+            		<img src="http://cp.news.search.daum.net/api/publish.json?nurl=http%3A%2F%2Fwww.travelitoday.com%2Fread%2FcontentsView%2F1050%2F25&xml_url=http%3A%2F%2Fwww.travelitoday.com%2Fpotal%2Fdaum%2F7254&channel=travel" style="display:none;"/>
+            	
+                <div class="story_title">
+                    <p class="main_title">
+                        <span>경기도 안양시
+                        	
+							<a href="http://www.traveli.co.kr/examine/oneRegion?region=36">
+							<img src="http://www.traveli.co.kr/image/feeling/lv05.png" alt="지역호감도" style="margin-top:-7px"/>
+							</a>
+							 
+                        </span><br/>
+                        <h4>안양역을 중심으로 '먹방' 찍어볼까? 안양의 소문난 맛</h4><br/>
+                        <ul class="area_hotmark clearfix">
+                            
+                        </ul>
+                    </p>
+                    
+                    	<span class="txt"><pre class="read_header" style="word-wrap:break-word;">경기도 내에 위치한 역들 중에서도 사람이 가장 많이 오가는 역들 중 하나인 안양역. 주변에 안양중앙시장과 안양 1번가, 비산동 종합운동장 등이 위치해 있으니 주변 볼거리와 먹거리도 넘쳐난다. 특히, 안양역  근처의 명소들을 중심으로 해서는 이름난 '맛'들이 트래블피플을 기다리고 있으니, 안양역을 경유해 간다면 지금 소개해 드리는 맛들 중 한 가지는 꼭 맛보기를 권한다.<pre></span>
+                    
+                </div>
+                <div class="wrap_temp width_type1">
+                <div id="column">
+                    <dl>
+                        <dd>   
+                              <div class="temp type1">
+<p class="desc"><b style="color: rgb(0, 0, 205); font-size: 14px; line-height: 22.3999996185303px;">안양중앙시장의 순대곱창골목</b></p>
+</div>
+
+<div class="temp type1">
+<ul class="container_img w1">
+	<li>
+	<p class="img_one"><img alt="" src="http://www.traveli.co.kr:80/repository/read/contents/K20150602204533786.jpg" style="width: 730px; height: 367px;" /></p>
+
+	<p class="img_name ac">안양중앙시장의 순대곱창골목은 기존 위치보다 살짝 더 안쪽으로 옮겨졌으니 참고해 두자.</p>
+	</li>
+</ul>
+
+<p class="desc"><span style="line-height: 20.7999992370605px;">안양에는 1926년 개장한 안양시장이 있다. 87년의 역사를 자랑하는 시장 안에는 오래된 맛집들도 풍성하다. 안양 중앙시장의 먹거리 골목과 순대 곱창 골목은 저녁 찬거리를 사러 나온 주부들이나 행인들이 주요 손님들이다. 장내동 성당에서 중앙시장 쪽을 바라보면 커다란 곱창 순대 상가 간판이 눈에 띈다. 좁은 골목길 양쪽으로 곱창집들이 늘어서 있다. 이곳은 보통 40년 이상 한자리에서 같은 품목으로 장사해온 맛집들이라 순대에서 누린내가 나지 않는 것은 기본이고, 여느 식당에서 곱창이나 순대를 주문해도 담백하고 고소한 맛이 일품이다.</span><br />
+<br />
+ </p>
+</div>
+
+<div class="temp type1">
+<p class="desc"><strong style="line-height: 20.7999992370605px;"><span style="color: rgb(0, 0, 205);"><span style="font-size: 14px;">톡 쏘는 그 맛! 안양 홍어 골목</span></span></strong><br style="line-height: 20.7999992370605px;" />
+<br style="line-height: 20.7999992370605px;" />
+<span style="line-height: 20.7999992370605px;">안양 중앙시장 주변에는 유래를 알 수 없지만 언제부턴가 하나둘 홍어 집들이 생기기 시작했다. 이제는 제법 이곳에서 홍어회를 찾는 손님들이 많아졌다. 홍어와 막걸리만큼 궁합이 잘 맞는 음식이 또 있을까, 삼합은 코가 징한 홍어에 잘 익은 돼지고기와 김치, 취향에 따라 채소를 싸 먹는 것이다. 홍어는 뼈 없는 생선으로 살이 풍부하고 맛이 고소하다. 뼈는 연골이기 때문에 오독오독 씹어 먹는 재미가 있다. 홍어회나 홍어전은 아직 홍어 맛에 익숙하지 않은 사람도 거부감 없이 쉽게 먹을 수 있는 맛이다. </span><br style="line-height: 20.7999992370605px;" />
+<br style="line-height: 20.7999992370605px;" />
+<span style="line-height: 20.7999992370605px;">중앙시장에서 홍어 맛을 보기로 했다면 홍어와 함께 서비스로 나오는 음식도 꼭 확인해 봐야 한다. 가게에 따라 홍어탕이 나오는 집도 있고, 운이 좋다면 홍어애도 슬쩍 맛볼 수 있다. 홍어애는 참기름에 찍어 먹는 것이 보통인데, 홍어 무침에 올려먹어도 맛있다. 안양중앙시장에는 안양시민이라면 대부분 알고 있는 대표적인 먹거리 골목이 있다. 떡볶이 골목이 바로 그곳이다. 안양 떡볶이 골목에서 양념이 잘 배고 차진 떡볶이를 안 먹어봤다면 안양사람이 아니라는 말도 전한다.</span></p>
+</div>
+
+<div class="temp type8">
+<ul class="container_img clearfix">
+	<li class="img1">
+	<p><img alt="" src="http://www.traveli.co.kr:80/repository/read/contents/K201506022046269.jpg" style="width: 360px; height: 240px;" /></p>
+
+	<p class="img_num green">1</p>
+	</li>
+	<li class="img2">
+	<p><img alt="" src="http://www.traveli.co.kr:80/repository/read/contents/K20150602204633767.jpg" style="width: 360px; height: 240px;" /></p>
+
+	<p class="img_num green">2</p>
+	</li>
+</ul>
+
+<ul class="img_name">
+	<li>
+	<p class="img_num green">1</p>
+
+	<p class="img_num green">2</p>
+	안양 중앙시장에는 홍어맛집과 홍어를 파는 생선가게도 많다.</li>
+</ul>
+</div>
+
+<div class="temp type1">
+<p class="desc"><br />
+<br />
+<strong><span style="color:#0000CD;"><span style="font-size:14px;">안양 1번가의 콩비지 감자탕, 비산동의 손두부 전문점</span></span></strong><br />
+<br />
+<span style="line-height: 20.7999992370605px;">안양역에서 나와 안양 1번가에 들어서면 특이하게도 콩비지가 들어간 감자탕을 맛볼 수 있다. 감자탕을 주문하면 고기와 각종 채소 위에 비지가 얹혀져서 나온다. 콩비지 감자탕은 육수에 비지가 얼마나 잘 섞이느냐가 맛을 결정한다. 육수가 끓기 시작하면 비지에 육수를 끼얹어 가며 감자탕 육수와 섞어야 콩비지 감자탕의 참맛을 제대로 느낄 수 있다. </span><br />
+<br />
+안양시 비산동 종합운동장 주위에는 손두부 전문점이 많이 있다. 밭에서 나는 쇠고기라 불리는 최고의 음식 콩과 열량이 낮고 많은 영양분이 들어가 다이어트에 좋은 천연 간수를 사용하여 전통방식 그대로 만드는 손 두부 전문점들이 이곳에 즐비하다. 매일 아침 신선한 재료를 사용하여 만드는 깔끔한 손 두부와 정갈한 밑반찬은 이곳을 안양의 대표 먹거리 골목으로 만든 일등 공신이다.<br />
+ </p>
+</div>
+
+                        </dd>
+                    </dl>
+                </div>
+                </div>
+				
+				
+				
+				
+
+                <!-- 추가글 --> 
+                  
+                <div class="end_mark"><img src="http://www.traveli.co.kr/image/read/end_mark.gif" alt="트래블아이 쫑마크" /></div>
+                 
+				
+                <div class="app">
+                	
+						
+						
+						
+							 
+			                    <div class="traveli_tip">
+			                        <img src="http://www.traveli.co.kr/image/microsearch/M0103M0204.png" alt="트래블아이 한마디" />
+			                        <strong>트래블아이 한마디</strong>
+			                        <pre style="word-wrap:break-word;white-space: pre-wrap;">허기진 배를 채워줄 음식들로 가득한 곳 안양시! 특히 안양중앙시장과 안양 1번가는 들르지 않으면 섭섭한 곳이라구요~</pre>
+			                    </div>
+			                
+			                
+						
+					
+					
+					
+	                
+	                    <div class="publication">
+	                        <P style="margin-top:20px;"><span>글</span> 트래블투데이 김혜진 취재기자</P>
+	                        <P>
+	                        	
+	                        	<span>발행</span>2020년 02월 15 일자
+	                        	
+	                        </P>
+	                    </div>
+	                
+	                
+                
+                
+                
+               
+                </div>
+                <!-- //추가글 -->  
+                <!-- SNS 연동 -->
+                
+
+
+
+<div class="sns_section">
+<script src="/js/com/people.js"></script>      
+    <ul>
+    	<!-- 
+        <li><a href="#" onclick="goLinkTwitter('안양역을 중심으로 '먹방' 찍어볼까? 안양의 소문난 맛','http://www.traveli.co.kr/read/contentsView/1050/0');return false;"><img src="/image/sns_twitter.jpg" alt="트윗" /></a></li>
+        <li><a href="#" onclick="goLinkFaceBook('안양역을 중심으로 '먹방' 찍어볼까? 안양의 소문난 맛','http://www.traveli.co.kr/read/contentsView/1050/0');return false;"><img src="/image/sns_facebook.jpg" alt="페이스북" /></a></li>
+         -->
+    	<!--<li id="twitter"><a href="https://twitter.com/intent/tweet?text=트래블아이 Pick - 읽어보기 > 별미 > 경기도 안양시 > 안양역을 중심으로 '먹방' 찍어볼까? 안양의 소문난 맛&url=http://www.traveli.co.kr/" target="_blank"><img src="/image/sns_twitter.jpg" alt="트위터 퍼가기" /></a></li>
+    	<li id="facebook"><a target="_blank"><img src="/image/sns_facebook.jpg" alt="페이스북 퍼가기" /></a></li>-->
+        <li><a href="#" id="btn_people"><img src="/image/sns_together.jpg" alt="함께만드는 트래블아이" /></a></li>
+        <li><img src="/image/sns_mypage.jpg" alt="마이페이지" id="mypage" style="cursor:pointer;"/></li>
+        <li><img src="/image/sns_modify.jpg" alt="수정요청" id="people" style="cursor:pointer;"/></li>
+        
+        
+    </ul>
+</div>
+
+
+
+<br/><br/>
+                <!-- // SNS 연동 -->
+				
+				
+				<script type="text/javascript">
+					$(function(){
+
+						var $ul = $(".slideCont02 .thum ul");
+						var listWidth = $(".slideCont02 .thum li").size() * ( $(".slideCont02 .thum li").width()+2) -2;
+						
+						$ul.css("width",listWidth);
+					
+						var idx = 0
+						var $list = $(".slideCont02 .thum li");
+						var $lastIdx = $(".slideCont02 .thum li:last").index();
+						var viewNum = 6;
+						var hideNum = $lastIdx - viewNum;
+
+						$(".slideCont02 .next").click(function(e){
+							e.preventDefault();
+
+							if(idx != $lastIdx){
+								idx++;
+								
+								if(idx > viewNum ){
+									$ul.stop().animate({
+										marginLeft : (idx - viewNum) * -92 + "px"
+									});
+								}
+							} else {
+								idx = 0;
+								
+								$ul.stop().animate({
+									marginLeft : "0px"
+								});
+							}
+							move();
+						});
+						
+
+						$(".slideCont02 .prev").click(function(e){
+							e.preventDefault();
+							
+							if(idx == 0){
+								idx = $lastIdx
+								
+								if ( $(".slideCont02 .thum li").size() > viewNum) {
+									$ul.stop().animate({
+										marginLeft : hideNum * -92 + "px"
+									});
+								}
+								
+							} else {
+								idx--;
+
+								if(idx < hideNum ){
+									$ul.stop().animate({
+										marginLeft : idx * -92 + "px"
+									});
+								}
+							}
+							
+							move();
+						});
+
+						$(".slideCont02 .thum li div").click(function(e){
+							e.preventDefault();
+							idx = $(this).parent().index();
+
+							move();
+						});
+
+						function move(){
+							var $imgIdx = $list.eq(idx).children("img").attr("src");
+							var $imgAlt = $list.eq(idx).children("img").attr("alt");							
+							
+							$(".slideCont02 .visual .img img").attr("src",$imgIdx);
+							$(".slideCont02 .visual .text .tit").html($imgAlt);
+	
+							$list.eq(idx).addClass("on").siblings().removeClass("on");
+							$(".slideCont02 .visual .firstNum").text(idx+1);
+						}
+					});
+				</script>
+			
+				
+            </div>
+            <!-- //기사내용 -->
+        </div>
+    </div>
+    <!-- //컨텐츠 -->
+
+	    <!-- 수청요청 팝업 -->
+    
+<div class="modify_request">
+<form method="post" enctype="multipart/form-data">
+	<input type="hidden" id="people_contentsSEQ" name="p_contentsSEQ"/>
+	<input type="hidden" id="people_themeSEQ" name="p_themeSEQ"/>
+	<input type="hidden" id="people_themeName" name="p_themeName"/>
+	<input type="hidden" id="people_category" name="p_category"/>
+	<input type="hidden" id="people_title" name="p_contentsTitle"/>
+	<input type="hidden" id="people_url" name="url"/>
+	<input type="hidden" id="p_type" name="p_type"/>
+	<input type="hidden" id="people_regionSEQ" name="p_regionSEQ"/>
+	<input type="hidden" id="people_regionName" name="p_regionName"/>
+	<input type="hidden" id="people_picture" name="p_picture"/>
+	<input type="hidden" id="img_check" name="img_check"/>
+    <div class="request ">
+        <h2>
+			<img src="/image/common/text_modify.jpg" alt="트래블아이 여행정보 수정문의" class="req_tit"/>
+			<img src="/image/common/text_partner.jpg" alt="트래블아이 여행정보 파트너 지정" class="req_url req_picture" style="display:none;"/>
+			<img src="/image/text_partner_picture.jpg" alt="트래블아이 여행정보 파트너 지정" class="req_picture_img" style="display:none;"/>
+		</h2>
+        <div class="info req_tit">
+            <p>항목 중에 잘못된 정보나 오타를 수정해 주세요.<br />
+            수정문의 내용은 트래블아이 담당자에서 전달되어 검토 후에 수정여부가 결정되며 검토결과에 대한 내용은 메일로 전달드립니다. 검토 및 반영하기까지는 다소 시간이 걸릴 수 있으니 참고해 주세요.</p>
+        </div>
+		<div class="info req_url" id="req_title" style="display:none;">
+            <p>해당 컨텐츠에 대한 파트너를 지정할 수 있습니다.<br />        
+			</p>
+        </div>
+        <div class="info req_pickture_info" style="display:none;">
+            <p>해당 컨텐츠에 대한 사진 출처를 등록할 수 있습니다.<br />
+            회원이 아닌 사람들중에 블로그나 까페를 통해서 사진을 제공한 사람들을 등록하는 곳입니다.<br/>
+			등록된 사람은 한줄리포터에 노출이 됩니다.
+			</p>
+        </div>
+        <div>
+        <dl>
+            <dt>이름(ID)</dt>
+            	<dd><input type="text" id="people_email" name="p_email" title="이름(ID)" style="width:250px; height:30px; border:0px;" readonly="readonly" /></dd>
+            <dt id="req_tit">수정을 요청하는 정보항목</dt>
+            	<dd><input type="text" id="people_navi" title="수정을 요청하는 정보항목" style="width:300px; height:30px; border:0px;" readonly="readonly" /></dd>
+            <dt id="req_con">수정문의 내용입력 (필수)</dt>
+	            <dd id="req_none">
+	                <p>내용중 오타나 잘못된 내용이 있다면 알려주세요.</p>
+	                <p>기타문의는 고객센터로 보내주시기 바랍니다.<span>(0 / 5,000자)</span></p>
+	                <textarea name="p_requestContents" title="수정문의 내용입력 (필수)" style="width:475px;" cols="2" rows="5" id="textfield"></textarea>
+	            </dd>
+            <dt class="req_url partner_url" style="display:none;">연결 URL</dt>
+            	<dd class="req_url partner_url" style="display:none;"><input type="text" name="partner_url" id="partner_url" title="연결 URL" style="width:485px; height:30px; margin-bottom:8px;"/></dd>
+            
+            <dt class="req_worker" style="display:none;">비고</dt>
+            	<dd class="req_worker" style="display:none;"><input type="text" name="p_worker" id="partner_worker" title="비고" style="width:485px; height:30px; margin-bottom:8px;"/></dd>
+            
+            <!-- <dt id="req_img">출처/참고자료 (선택)</dt> -->
+            <!-- 2014-10-16 size max 삭제 <dd><input type="file" name="file" id="userfile" title="출처/참고자료 (선택)" size="60" maxlength="80" /></dd>-->
+            <!--	<dd class="req_picture"><input type="file" name="file" id="userfile" title="출처/참고자료 (선택)" /> * 5M이하</dd> -->
+            <!--
+			<dt class="req_url req_picture" style="display:none;margin-bottom:5px;">지역로고사용</dt>
+				<dd class="req_url req_picture" style="display:none;padding-top:6px;"><input type="checkbox" name="region_check" id="region_check" title="지역로고사용" value="36" /> 경기도 안양시</dd>
+			-->
+        </dl>
+        </div>
+        <div class="btn_close b-close"><a href="#" class="close"><img src="/image/common/btn_close.jpg" alt="수정요청 닫기" /></a></div>
+        <div class="btn_complete"><img src="/image/common/btn_ok.jpg" id="people_enroll" alt="확인" style="cursor:pointer"/> <img src="/image/common/btn_cancel.jpg" id="people_cancle" alt="취소" style="cursor:pointer"/></div>
+    </div>
+</form>
+</div>
+
+    <!-- //수청요청 팝업 -->
+
+    <!--함께만든트래블피플-->
+    
+<style>
+	.pe_conts > ul > li {position:relative;}
+	.del_partner {position:absolute; right:41px; top:-5px;z-index:999; cursor:pointer;}
+	
+</style>
+<!--<div class="people clr hidden" id="myToggle" >-->
+<div class="people clr" id="myToggle" >
+    <div class="p_inner">
+		<h2>함께하는 트래블피플</h2>
+		<ul class="pe_nav sr">
+			<li><a href="/introduce/3">트래블피플이란?</a></li>
+			<li><a href="/introduce/5">트래블피플에게 주어지는 혜택</a></li>
+			<li><p style="margin-top:1px;">해당 콘텐츠에 대한 기여도
+				<img src="/repository/member/star3.png" alt="" /> 기사+사진
+				<img src="/repository/member/star1.png" alt="" /> 기사
+				<img src="/repository/member/star2.png" alt="" /> 사진
+				<img src="/repository/member/star0.png" alt="" /> 오류수정
+				</p>
+			</li>
+		</ul>
+		<div class="pe_make clr">
+			<div class="pe_box pe_partner clr">
+				<div class="pe_tit">
+					<h3 class="ng">트래블파트너</h3>
+				</div>
+				<div class="pe_conts">
+					
+						
+						
+							<ul>
+								
+									<li>
+										
+										<a href="http://www.anyang.go.kr/" target="_blank">
+											
+											
+												
+												
+												
+												
+													<img src="/repository/people/uploadfile/P201702071081316639679.jpg" alt="파트너사진" width="86" height="60"/>
+												
+											
+											
+											<span>안양시청</span>
+										</a>
+									</li>
+									
+							</ul>
+						
+					
+				</div>
+			</div>
+			
+			<script>
+				$(document).ready(function(){
+					$(document).on("click", ".del_partner", function(e){
+						if(confirm("삭제할까요?")){
+							var seq = $(this).attr("data-seq");
+							var url = "/deletePartner";
+							$.ajax({
+								type:"POST",
+								url:url,
+								data:{seq:seq},
+								success:function(data){
+									if(data.result > 0){
+										alert("파트너를 삭제하였습니다.");
+										location.reload();
+									}
+								}
+							})
+						}
+					});
+				});
+			</script>
+			
+			<div class="pe_box pe_super clr">
+				<div class="pe_tit">
+					<h3 class="ng">주재기자</h3>
+					<p></p>
+				</div>
+				<div class="pe_conts">
+					<ul>
+						
+					
+					
+					</ul>
+					
+						<p class="on">참여한 주재기자가 없습니다.</p>
+						
+				</div>
+			</div>
+			<div class="pe_box pe_pe_power clr">
+				<div class="pe_tit">
+					<h3 class="ng">파워리포터</h3>
+				</div>
+				<div class="pe_conts">
+					<ul>
+						
+					
+					
+					</ul>
+					
+						<p class="on">참여한 파워리포터가 없습니다.</p>
+						
+				</div>
+				
+			</div>
+			<div class="pe_box pe_reporter clr">
+				<div class="pe_tit">
+					<h3>한줄리포터</h3>
+				</div>
+				<div class="pe_conts">
+					<ul class="sr">
+						
+					
+					
+					</ul>
+					
+						<p class="on">참여한 한줄리포터가 없습니다.</p>
+						
+				</div>
+			</div>
+			<div class="pe_character"></div>
+		</div>
+    </div>
+</div>
+    <!-- //함께만든트래블피플 -->
+
+    <!-- footer -->
+    
+
+
+<script src="http://www.traveli.co.kr/js/jquery.vticker-min.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+
+	$(document).ready(function(){
+		$.ajax({
+			type:"POST",
+			url:"/customer/noticeFrontList",
+			success:function(data){
+				$.each(data,function(key){
+					var list = data[key];
+					var content = "";
+					for(var i=0; i<list.length; i++){
+						content += "<li><a href='/customer/list/notice?link="+ list[i].seq +"'>" + list[i].title + "</a></li>";
+					}
+					$(".notice1 > div > ul").html(content);
+					$('#dv_rolling').vTicker({   
+				        // 스크롤 속도(default: 700)  
+				        speed: 500,  
+				        // 스크롤 사이의 대기시간(default: 4000)  
+				        pause: 3000,  
+				        // 스크롤 애니메이션  
+				        animation: 'fade',  
+				        // 마우스 over 일때 멈출 설정  
+				        mousePause: true,  
+				        // 한번에 보일 리스트수(default: 2)  
+				        showItems: 1,  
+				        // 스크롤 컨테이너 높이(default: 0)  
+				        height: 0,  
+				        // 아이템이 움직이는 방향, up/down (default: up)  
+				        direction: 'up'  
+				    });  
+				});
+			}
+		});	
+		
+		var temp1 = location.href.split("?");
+		var data2 = temp1[1];
+		if(data2 != undefined){
+			if(data2.indexOf("areaList") > -1){
+				$("#areaList button").trigger("click");	
+			}			
+		}
+		
+		$(document).on("change","#select",function(){
+			var url = $(this).val();
+			if(url != ''){
+				window.open(url);
+			}
+		});
+		
+	});
+
+</script>
+
+
+<div id="bgMask"></div>
+<div class="categoryCont">
+	<div class="location">
+		<!-- <p><strong>전체지역</strong></p> -->
+		<ul>
+			<li class="on"><a href="#"><span>서울</span></a>
+				<ul>
+					<li><a href="/area/index/126">강남구</a></li>
+					<li><a href="/area/index/127">강동구</a></li>
+					<li><a href="/area/index/128">강북구</a></li>
+					<li><a href="/area/index/129">강서구</a></li>
+					<li><a href="/area/index/130">관악구</a></li>
+					<li><a href="/area/index/131">광진구</a></li>
+					<li><a href="/area/index/132">구로구</a></li>
+					<li><a href="/area/index/133">금천구</a></li>
+					<li><a href="/area/index/134">노원구</a></li>
+					<li><a href="/area/index/135">도봉구</a></li>
+					<li><a href="/area/index/136">동대문구</a></li>
+					<li><a href="/area/index/137">동작구</a></li>
+					<li><a href="/area/index/138">마포구</a></li>
+					<li><a href="/area/index/139">서대문구</a></li>
+					<li><a href="/area/index/140">서초구</a></li>
+					<li><a href="/area/index/141">성동구</a></li>
+					<li><a href="/area/index/142">성북구</a></li>
+					<li><a href="/area/index/143">송파구</a></li>
+					<li><a href="/area/index/144">양천구</a></li>
+					<li><a href="/area/index/145">영등포구</a></li>
+					<li><a href="/area/index/146">용산구</a></li>
+					<li><a href="/area/index/147">은평구</a></li>
+					<li><a href="/area/index/148">종로구</a></li>
+					<li><a href="/area/index/149">중구</a></li>
+					<li><a href="/area/index/150">중랑구</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>인천</span></a>
+				<ul>
+					<li><a href="/area/index/156">강화군</a></li>
+					<li><a href="/area/index/157">계양구</a></li>
+					<li><a href="/area/index/158">남구</a></li>
+					<li><a href="/area/index/159">남동구</a></li>
+					<li><a href="/area/index/160">동구</a></li>
+					<li><a href="/area/index/161">부평구</a></li>
+					<li><a href="/area/index/162">서구</a></li>
+					<li><a href="/area/index/163">연수구</a></li>
+					<li><a href="/area/index/164">옹진군</a></li>
+					<li><a href="/area/index/165">중구</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>광주</span></a>
+				<ul>
+					<li><a href="/area/index/92">광산구</a></li>
+					<li><a href="/area/index/93">남구</a></li>
+					<li><a href="/area/index/94">동구</a></li>
+					<li><a href="/area/index/95">북구</a></li>
+					<li><a href="/area/index/96">서구</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>대전</span></a>
+				<ul>
+					<li><a href="/area/index/105">대덕구</a></li>
+					<li><a href="/area/index/106">동구</a></li>
+					<li><a href="/area/index/107">서구</a></li>
+					<li><a href="/area/index/108">유성구</a></li>
+					<li><a href="/area/index/109">중구</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>대구</span></a>
+				<ul>
+					<li><a href="/area/index/97">남구</a></li>
+					<li><a href="/area/index/98">달서구</a></li>
+					<li><a href="/area/index/99">달성군</a></li>
+					<li><a href="/area/index/100">동구</a></li>
+					<li><a href="/area/index/101">북구</a></li>
+					<li><a href="/area/index/102">서구</a></li>
+					<li><a href="/area/index/103">수성구</a></li>
+					<li><a href="/area/index/104">중구</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>부산</span></a>
+				<ul>
+					<li><a href="/area/index/110">강서구</a></li>
+					<li><a href="/area/index/111">금정구</a></li>
+					<li><a href="/area/index/112">기장군</a></li>
+					<li><a href="/area/index/113">남구</a></li>
+					<li><a href="/area/index/114">동구</a></li>
+					<li><a href="/area/index/115">동래구</a></li>
+					<li><a href="/area/index/116">부산진구</a></li>
+					<li><a href="/area/index/117">북구</a></li>
+					<li><a href="/area/index/118">사상구</a></li>
+					<li><a href="/area/index/119">사하구</a></li>
+					<li><a href="/area/index/120">서구</a></li>
+					<li><a href="/area/index/121">수영구</a></li>
+					<li><a href="/area/index/122">연제구</a></li>
+					<li><a href="/area/index/123">영도구</a></li>
+					<li><a href="/area/index/124">중구</a></li>
+					<li><a href="/area/index/125">해운대구</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>울산</span></a>
+				<ul>
+					<li><a href="/area/index/151">남구</a></li>
+					<li><a href="/area/index/152">동구</a></li>
+					<li><a href="/area/index/153">북구</a></li>
+					<li><a href="/area/index/154">울주군</a></li>
+					<li><a href="/area/index/155">중구</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>제주</span></a>
+				<ul>
+					<li><a href="/area/index/202">서귀포시</a></li>
+					<li><a href="/area/index/203">제주시</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>경기도</span></a>
+				<ul>
+					<li><a href="/area/index/19">가평군</a></li>
+					<li><a href="/area/index/20">고양시</a></li>
+					<li><a href="/area/index/22">과천시</a></li>
+					<li><a href="/area/index/23">광명시</a></li>
+					<li><a href="/area/index/24">광주시</a></li>
+					<li><a href="/area/index/25">구리시</a></li>
+					<li><a href="/area/index/26">군포시</a></li>
+					<li><a href="/area/index/27">김포시</a></li>
+					<li><a href="/area/index/28">남양주시</a></li>
+					<li><a href="/area/index/29">동두천시</a></li>
+					<li><a href="/area/index/30">부천시</a></li>
+					<li><a href="/area/index/31">성남시</a></li>
+					<li><a href="/area/index/32">수원시</a></li>
+					<li><a href="/area/index/33">시흥시</a></li>
+					<li><a href="/area/index/34">안산시</a></li>
+					<li><a href="/area/index/35">안성시</a></li>
+					<li><a href="/area/index/36">안양시</a></li>
+					<li><a href="/area/index/37">양주시</a></li>
+					<li><a href="/area/index/38">양평군</a></li>
+					<li><a href="/area/index/39">여주시</a></li>
+					<li><a href="/area/index/40">연천군</a></li>
+					<li><a href="/area/index/41">오산시</a></li>
+					<li><a href="/area/index/42">용인시</a></li>
+					<li><a href="/area/index/43">의왕시</a></li>
+					<li><a href="/area/index/44">의정부시</a></li>
+					<li><a href="/area/index/45">이천시</a></li>
+					<li><a href="/area/index/46">파주시</a></li>
+					<li><a href="/area/index/47">평택시</a></li>
+					<li><a href="/area/index/48">포천시</a></li>
+					<li><a href="/area/index/49">하남시</a></li>
+					<li><a href="/area/index/50">화성시</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>강원도</span></a>
+				<ul>
+					<li><a href="/area/index/1">강릉시</a></li>
+					<li><a href="/area/index/2">고성군</a></li>
+					<li><a href="/area/index/3">동해시</a></li>
+					<li><a href="/area/index/4">삼척시</a></li>
+					<li><a href="/area/index/5">속초시</a></li>
+					<li><a href="/area/index/6">양구군</a></li>
+					<li><a href="/area/index/7">양양군</a></li>
+					<li><a href="/area/index/8">영월군</a></li>
+					<li><a href="/area/index/9">원주시</a></li>
+					<li><a href="/area/index/10">인제군</a></li>
+					<li><a href="/area/index/11">정선군</a></li>
+					<li><a href="/area/index/12">철원군</a></li>
+					<li><a href="/area/index/13">춘천시</a></li>
+					<li><a href="/area/index/14">태백시</a></li>
+					<li><a href="/area/index/15">평창군</a></li>
+					<li><a href="/area/index/16">홍천군</a></li>
+					<li><a href="/area/index/17">화천군</a></li>
+					<li><a href="/area/index/18">횡성군</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>전라남도</span></a>
+				<ul>
+					<li><a href="/area/index/166">강진군</a></li>
+					<li><a href="/area/index/167">고흥군</a></li>
+					<li><a href="/area/index/168">곡성군</a></li>
+					<li><a href="/area/index/169">광양시</a></li>
+					<li><a href="/area/index/170">구례군</a></li>
+					<li><a href="/area/index/171">나주시</a></li>
+					<li><a href="/area/index/172">담양군</a></li>
+					<li><a href="/area/index/173">목포시</a></li>
+					<li><a href="/area/index/174">무안군</a></li>
+					<li><a href="/area/index/175">보성군</a></li>
+					<li><a href="/area/index/176">순천시</a></li>
+					<li><a href="/area/index/177">신안군</a></li>
+					<li><a href="/area/index/178">여수시</a></li>
+					<li><a href="/area/index/179">영광군</a></li>
+					<li><a href="/area/index/180">영암군</a></li>
+					<li><a href="/area/index/181">완도군</a></li>
+					<li><a href="/area/index/182">장성군</a></li>
+					<li><a href="/area/index/183">장흥군</a></li>
+					<li><a href="/area/index/184">진도군</a></li>
+					<li><a href="/area/index/185">함평군</a></li>
+					<li><a href="/area/index/186">해남군</a></li>
+					<li><a href="/area/index/187">화순군</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>전라북도</span></a>
+				<ul>
+					<li><a href="/area/index/188">고창군</a></li>
+					<li><a href="/area/index/189">군산시</a></li>
+					<li><a href="/area/index/190">김제시</a></li>
+					<li><a href="/area/index/191">남원시</a></li>
+					<li><a href="/area/index/192">무주군</a></li>
+					<li><a href="/area/index193/">부안군</a></li>
+					<li><a href="/area/index/194">순창군</a></li>
+					<li><a href="/area/index/195">완주군</a></li>
+					<li><a href="/area/index/196">익산시</a></li>
+					<li><a href="/area/index/197">임실군</a></li>
+					<li><a href="/area/index/198">장수군</a></li>
+					<li><a href="/area/index/199">전주시</a></li>
+					<li><a href="/area/index/200">정읍시</a></li>
+					<li><a href="/area/index/201">진안군</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>경상남도</span></a>
+				<ul>
+					<li><a href="/area/index/51">거제시</a></li>
+					<li><a href="/area/index/52">거창군</a></li>
+					<li><a href="/area/index/53">고성군</a></li>
+					<li><a href="/area/index/54">김해시</a></li>
+					<li><a href="/area/index/55">남해군</a></li>
+					<li><a href="/area/index/56">밀양시</a></li>
+					<li><a href="/area/index/57">사천시</a></li>
+					<li><a href="/area/index/58">산청군</a></li>
+					<li><a href="/area/index/59">양산시</a></li>
+					<li><a href="/area/index/60">의령군</a></li>
+					<li><a href="/area/index/61">진주시</a></li>
+					<li><a href="/area/index/62">창녕군</a></li>
+					<li><a href="/area/index/63">창원시</a></li>
+					<li><a href="/area/index/64">통영시</a></li>
+					<li><a href="/area/index/65">하동군</a></li>
+					<li><a href="/area/index/66">함안군</a></li>
+					<li><a href="/area/index/67">함양군</a></li>
+					<li><a href="/area/index/68">합천군</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>경상북도</span></a>
+				<ul>
+					<li><a href="/area/index/69">경산시</a></li>
+					<li><a href="/area/index/70">경주시</a></li>
+					<li><a href="/area/index/71">고령군</a></li>
+					<li><a href="/area/index/72">구미시</a></li>
+					<li><a href="/area/index/73">군위군</a></li>
+					<li><a href="/area/index/74">김천시</a></li>
+					<li><a href="/area/index/75">문경시</a></li>
+					<li><a href="/area/index/76">봉화군</a></li>
+					<li><a href="/area/index/77">상주시</a></li>
+					<li><a href="/area/index/78">성주군</a></li>
+					<li><a href="/area/index/79">안동시</a></li>
+					<li><a href="/area/index/80">영덕군</a></li>
+					<li><a href="/area/index/81">영양군</a></li>
+					<li><a href="/area/index/82">영주시</a></li>
+					<li><a href="/area/index/83">영천시</a></li>
+					<li><a href="/area/index/84">예천군</a></li>
+					<li><a href="/area/index/85">울릉군</a></li>
+					<li><a href="/area/index/86">울진군</a></li>
+					<li><a href="/area/index/87">의성군</a></li>
+					<li><a href="/area/index/88">청도군</a></li>
+					<li><a href="/area/index/89">청송군</a></li>
+					<li><a href="/area/index/90">칠곡군</a></li>
+					<li><a href="/area/index/91">포항시</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>충청남도</span></a>
+				<ul>
+					<li><a href="/area/index/204">계룡시</a></li>
+					<li><a href="/area/index/205">공주시</a></li>
+					<li><a href="/area/index/206">금산군</a></li>
+					<li><a href="/area/index/207">논산시</a></li>
+					<li><a href="/area/index/208">당진시</a></li>
+					<li><a href="/area/index/209">보령시</a></li>
+					<li><a href="/area/index/210">부여군</a></li>
+					<li><a href="/area/index/211">서산시</a></li>
+					<li><a href="/area/index/212">서천군</a></li>
+					<li><a href="/area/index/213">아산시</a></li>
+					<li><a href="/area/index/214">예산군</a></li>
+					<li><a href="/area/index/215">천안시</a></li>
+					<li><a href="/area/index/216">청양군</a></li>
+					<li><a href="/area/index/217">태안군</a></li>
+					<li><a href="/area/index/218">홍성군</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>충청북도</span></a>
+				<ul>
+					<li><a href="/area/index/219">괴산군</a></li>
+					<li><a href="/area/index/220">단양군</a></li>
+					<li><a href="/area/index/221">보은군</a></li>
+					<li><a href="/area/index/222">영동군</a></li>
+					<li><a href="/area/index/223">옥천군</a></li>
+					<li><a href="/area/index/224">음성군</a></li>
+					<li><a href="/area/index/225">제천시</a></li>
+					<li><a href="/area/index/226">증평군</a></li>
+					<li><a href="/area/index/227">진천군</a></li>
+					<li><a href="/area/index/229">청주시</a></li>
+					<li><a href="/area/index/230">충주시</a></li>
+				</ul>
+			</li>
+			<li><a href="#"><span>특별자치시</span></a>
+				<ul>
+					<li><a href="/area/index/21">세종시</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<div class="banner">
+		<div>
+			<div class="today">
+				<p class="titleSt01"><span>오늘의 지역</span></p>
+				<ul>
+				
+				</ul>
+			</div>
+			<ul class="subBanner01">
+			
+			</ul>
+			<ul class="subBanner02">
+			
+			</ul>
+		</div>
+		<div>
+			<ul class="subBanner03">
+			
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="footer">
+    <div class="notice_wrap">
+        <div class="notice1">
+        	<span><a href="/customer/list/notice">공지사항</a></span>
+        	<div class="noti" id="dv_rolling">
+        		<ul><!-- 공지사항 li --></ul>
+        	</div>
+        </div>
+    </div>
+	
+	<div class="info_wrap">
+		<div class="info_side">
+			<ul>
+				<li><a href="http://www.traveli.co.kr">HOME</a></li>
+				<li><a href="http://www.culturemkt.com" target="_blank">회사소개</a></li>
+				<li><a href="/customer/use/policy">개인정보취급방침</a></li>
+				<li><a href="/customer/list/faq">고객센터</a></li>
+				<li><a href="http://www.traveli.co.kr/fileDown/intro_pf">플랫폼소개서</a></li>
+				<li><a href="/together/awards/partner">파트너쉽 가입안내</a></li>
+				<!--<li><a href="/customer/use/partner">파트너쉽 가입안내</a></li>-->
+				<li><a href="/introduce/4">트래블피플 활동 참여</a></li>
+				<li><a href="/areaNews/list/fnews">지자체 보도자료</a></li>				
+			</ul>
+			
+			<span class="sns">
+				<strong>트래블아이와 이야기하기</strong>
+				<span>
+					<a href="https://ko-kr.facebook.com/Traveli1"><img src="/image/common/facebook_logo.png" alt="페이스북" /></a>
+					<a href="http://blog.naver.com/travel_i"><img src="/image/common/blog_logo.png" alt="블로그" /></a>
+					<a href="https://instagram.com/_traveli"><img src="/image/common/instagram_logo.png" alt="인스타그램" /></a>
+				</span>
+			</span>
+			
+			<select name="select" id="select">
+				<option selected="selected" value="">Family site</option>
+				<option value="http://www.travelitoday.com" >트래블투데이</option>
+				<option value="http://www.traveloutlet.co.kr" >트래블아울렛</option>
+				<option value="http://www.traveldata.co.kr" >트래블데이터</option>
+			</select>
+			<a href="#" id="familySite" target="_blank"></a>
+		</div>
+	</div>
+	
+		<div class="footer_bottom">
+			<div class="info_side2">
+				 <!--h1><a href="#"><img src="http://www.traveli.co.kr/image/h1_logo_footer.jpg" alt="트래블아이" /></a></h1-->
+				<ul>
+					<li><a href="#">문화마케팅연구소</a></li>
+					<li><a href="#">대표자:이호열</a></li>
+					<li><a href="#">사업자등록번호:215-87-14539</a></li>
+					<li><a href="#">특허등록번호:10-1494363</a></li>
+					<li><a href="#">청소년보호책임자:박옥란</a></li>
+					<li><a href="#">개인정보책임자:김종운</a></li>
+				</ul>
+
+				<div class="txtAddress">
+					<p>
+						<span>서울시 강남구 테헤란로82길 15, 393호</span>
+						<span>Tel: 02-408-9274</span>
+						<span>Fax: 02-595-9274</span>
+					</p>
+									
+					<p class="copy">copyright (c) <strong>문화마케팅연구소</strong>All rights reserved.</p>
+				</div>
+
+			</div>
+		</div>
+		
+</div>
+<!--
+<audio autoplay="autoplay" id="myAudio">
+
+    <source src="http://www.traveli.co.kr/music/read.ogg" type="audio/ogg">
+    <source src="http://www.traveli.co.kr/music/read.mp3" type="audio/mpeg">
+	 
+	<embed type="video/x-ms-wmv" src="http://www.traveli.co.kr/music/read.mp3" autostart="1" style="display:none;" loop="true" id="ie_audio">
+</audio>
+-->
+											
+<!-- AceCounter Log Gathering Script V.7.5.2013010701 -->
+<script language='javascript'>
+	var _AceGID=(function(){var Inf=['gtp7.acecounter.com','8080','AB1A39345760646','AW','0','NaPm,Ncisy','ALL','0']; var _CI=(!_AceGID)?[]:_AceGID.val;var _N=0;var _T=new Image(0,0);if(_CI.join('.').indexOf(Inf[3])<0){ _T.src =( location.protocol=="https:"?"https://"+Inf[0]:"http://"+Inf[0]+":"+Inf[1]) +'/?cookie'; _CI.push(Inf);  _N=_CI.length; } return {o: _N,val:_CI}; })();
+	var _AceCounter=(function(){var G=_AceGID;if(G.o!=0){var _A=G.val[G.o-1];var _G=( _A[0]).substr(0,_A[0].indexOf('.'));var _C=(_A[7]!='0')?(_A[2]):_A[3];	var _U=( _A[5]).replace(/\,/g,'_');var _S=((['<scr','ipt','type="text/javascr','ipt"></scr','ipt>']).join('')).replace('tt','t src="'+location.protocol+ '//cr.acecounter.com/Web/AceCounter_'+_C+'.js?gc='+_A[2]+'&py='+_A[4]+'&gd='+_G+'&gp='+_A[1]+'&up='+_U+'&rd='+(new Date().getTime())+'" t');document.writeln(_S); return _S;} })();
+</script>
+<noscript><img src='http://gtp7.acecounter.com:8080/?uid=AB1A39345760646&je=n&' border=0 width=0 height=0></noscript>	
+<!-- AceCounter Log Gathering Script End --> 
+
+<!-- google analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-90128624-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- google analytics End-->			
+
+    <!-- //footer -->
+</div>
+
+
+<div class="guide">
+	<input type="hidden" id="gPage" value="read" />
+	<input type="hidden" id="dist" value="view" />
+	<div class="gMask"></div>
+
+	<div class="gCont read">
+		<div class="distReadList">
+			<div class="linkList">
+				<img src="http://www.traveli.co.kr/image/read/icon_list_click2.gif" alt="같은테마 리스트보기" />
+				<p class="txt top">
+					<span class="tTitle">테마리스트 페이지 버튼</span>
+					<span class="tSub">테마별 기사리스트 페이지로 이동</span>				
+				</p>
+			</div>
+			<div class="readList">
+				<img src="http://www.traveli.co.kr/repository/read/contents/READ202406281228516123889.jpg" alt="전남도, 목포·해남 동화 속 코스 등 남도한바퀴 여름 코스 본격 운행, 국내여행, 여행정보"/>
+				<strong>전남도, 목포·해남 동화 속 <br/></strong>
+				<span><img src="http://www.traveli.co.kr/image/feeling/left_cv7.png" id="left_feel" alt="컨텐츠호감도"/></span>
+			</div>
+			<div class="linkMore"><img src="http://www.traveli.co.kr/image/read/btn_themeview.jpg" alt="같은테마리스트 더보기" /></div>			
+
+			<p class="txt middle">
+				<span class="tTitle">테마리스트</span>
+				<span class="tSub">해당기사와 같은 테마기사 리스트</span>				
+			</p>
+
+			<p class="txt bottom">
+				<span class="tTitle">테마리스트 바로가기 버튼</span>
+				<span class="tSub">테마별 리스트 정보제공</span>				
+			</p>
+			
+		</div>
+
+		<div class="distViewTitle">
+			<div>
+				<span>
+					
+					<a href="http://www.traveli.co.kr/examine/oneRegion?region=36">
+					<img src="http://www.traveli.co.kr/image/feeling/lv05.png" alt="지역호감도" />
+					</a>
+					 
+				</span><br/>
+				<h4>안양역을 중심으로 '먹방' 찍어볼까? 안양의 소문난 맛</h4>
+			</div>
+
+			<p class="txt">
+				<span class="tTitle">7가지 표정의 지역호감도</span>
+				<span class="tSub">여행정보, 총량, 콘텐츠호감도,<br/> 트래블피플 활동지수 지표화</span>				
+			</p>
+			
+		</div>
+
+		<div class="distHotmark">
+			
+			
+				<img src="http://www.traveli.co.kr/image/hotmark/Award.png"/></li>
+			
+			<p class="txt">
+				<span class="tTitle">핫마크</span>
+				<span class="tSub">콘텐츠에 대한 중요도 정보</span>
+			</p>
+		</div>
+
+		<div class="distRepImg">
+			<div>
+				<img src="http://www.traveli.co.kr/image/read/
+				
+				
+				ribbon_taste.jpg
+				
+				" class="theme_img"/><img src="http://www.traveli.co.kr/image/feeling/cv2.png" class="feeling" alt="" />
+			</div>
+			<p class="txt">
+				<span class="tTitle">콘텐츠호감도</span>
+				<span class="tSub">콘텐츠들에 대한<br/>트래블피플의 반응도</span>				
+			</p>
+		</div>
+
+		<div class="distInfo">
+			<p class="txt">
+				<span class="tTitle">사용방법 안내버튼</span>
+				<span class="tSub">설명 페이지 활성화</span>				
+			</p>
+			<img alt="" src="/image/back-to-top.png"/>
+			<img alt="" src="/image/guide/btn_eleInfo.png" class="guideEleInfo"/>
+		</div>
+
+		<div class="distBtn">
+			<ul>
+				<li><img src="/image/sns_together.jpg" alt="함께만드는 트래블아이"></li>
+				<li><img src="/image/sns_mypage.jpg" alt="마이페이지"></li>
+				<li><img src="/image/sns_modify.jpg" alt="수정요청"></li>
+			</ul>
+			<p class="txt left">
+				<span class="tTitle">함께하는 트래블피플</span>
+				<span class="tSub">트래블파트너, 슈퍼라이터,<br/>파워리포터, 한줄리포터로 구성된 트래블피플</span>				
+			</p>
+			<p class="txt center">
+				<span class="tTitle">스크랩</span>
+				<span class="tSub">마이페이지<br/>스크랩 내역에 저장</span>				
+			</p>
+			<p class="txt right">
+				<span class="tTitle">해당기사에 대한 참여</span>
+				<span class="tSub">추가정보나 사진제공, <br/> 오탈자 등 건의</span>				
+			</p>
+		</div>
+	</div>
+</div>
+
+
+</body>
+</html>
